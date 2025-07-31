@@ -14,19 +14,11 @@ I'm a passionate developer with experience in the **MERN stack** (MongoDB, Expre
 
 ### [E-commerce-Website](https://github.com/chandanyadav2004/E-commerce-Website)
 **Description:** A full-featured online shopping platform with cart, product listings, and order management.
-**Tech Used:** HTML, CSS, JavaScript, Node.js, Express, MongoDB
-
-### [Full-Stack-Development-Projects](https://github.com/chandanyadav2004/Full-Stack-Development-Projects)
-**Description:** Collection of web applications demonstrating both frontend and backend skills.
-**Tech Used:** React, Node.js, Express, MongoDB
+**Tech Used:** HTML, CSS, JavaScript
 
 ### [Hotel-Management-Website](https://github.com/chandanyadav2004/Hotel-Management-Website)
 **Description:** Website for hotel bookings, room management, and customer check-in/check-out.
 **Tech Used:** HTML, CSS, JavaScript, PHP, MySQL
-
-### [java](https://github.com/chandanyadav2004/java)
-**Description:** Repository of Java programming assignments and mini-projects.
-**Tech Used:** Java, OOP, Swing
 
 ### [News-App-APi](https://github.com/chandanyadav2004/News-App-APi)
 **Description:** News website fetching live articles using a news API.
@@ -38,11 +30,11 @@ I'm a passionate developer with experience in the **MERN stack** (MongoDB, Expre
 
 ### [Portfolio](https://github.com/chandanyadav2004/Portfolio)
 **Description:** Personal portfolio site showcasing projects and skills.
-**Tech Used:** HTML, CSS, JavaScript
+**Tech Used:** React.js 
 
 ### [prepwise](https://github.com/chandanyadav2004/prepwise)
 **Description:** Interactive platform for exam preparation and practice quizzes.
-**Tech Used:** React, Node.js, Express, MongoDB
+**Tech Used:** Next.js, Firebase, Vapi AI , Chatgpt, Gemini
 
 ### [Streamfiy](https://github.com/chandanyadav2004/Streamfiy)
 **Description:** Streaming service project for audio/video content.
@@ -51,19 +43,6 @@ I'm a passionate developer with experience in the **MERN stack** (MongoDB, Expre
 ### [To-do-List](https://github.com/chandanyadav2004/To-do-List)
 **Description:** Simple and effective task management app.
 **Tech Used:** HTML, CSS, JavaScript
-
-#### [Hotel-Management-Website1](https://github.com/chandanyadav2004/hotel-management-website1)
-**Description:** Alternative hotel management platform for reservation and customer records.
-**Tech Used:** HTML, CSS, JavaScript, PHP
-
-#### [JavaScript-Project-](https://github.com/chandanyadav2004/JavaScript-Project-)
-**Description:** Miscellaneous JavaScript projects for learning and experimentation.
-**Tech Used:** JavaScript
-
-#### [Python-Projects](https://github.com/chandanyadav2004/Python-Projects)
-**Description:** Various Python mini-projects and practical scripts.
-**Tech Used:** Python
-
 
 ## 📚 Fun Facts & Interests
 - I’m an avid reader—my favorite genres are tech, self-development, and mysteries.
